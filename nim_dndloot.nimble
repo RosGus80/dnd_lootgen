@@ -6,7 +6,7 @@ description   = "A package for a dnd random loot generator "
 license       = "MIT"
 srcDir        = "src"
 binDir        = "bin"
-bin           = @["nim_dndloot", "main_cli"]
+bin           = @["main_cli"]
 
 
 # Dependencies

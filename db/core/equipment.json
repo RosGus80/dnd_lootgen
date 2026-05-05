@@ -1,282 +1,282 @@
 [
-    {
-        "id": 1,
-        "name": "Acid",
-        "description": "When you take the Attack action, you can replace one of your attacks with throwing a vial of Acid. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 2d6 Acid damage.",
-        "gpCost": 25,
-        "rarity": "Uncommon",
-        "locations": [
-            "town",
-            "city",
-            "village",
-            "forest",
-            "swamp",
-            "dungeon",
-            "ruins",
-            "underdark"
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Alchemist's Fire",
-        "description": "When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see “Rules Glossary”).",
-        "gpCost": 25,
-        "rarity": "Uncommon",
-        "locations": [
-            "town",
-            "city",
-            "forest",
-            "desert",
-            "dungeon",
-            "ruins",
-            "cave"
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Alchemist's Supplies",
-        "description": "",
-        "gpCost": 50,
-        "rarity": "Uncommon",
-        "locations": [
-            "all"
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Amulet",
-        "description": "A Holy Symbol takes one of the forms in the Holy Symbol table and is bejeweled or painted to channel divine magic. A Cleric or Paladin can use a Holy Symbol as a Spellcasting Focus.\nThe table indicates whether a Holy Symbol needs to be held, worn, or borne on fabric (such as a tabard or banner) or a Shield.",
-        "gpCost": 5,
-        "rarity": "Common",
-        "locations": [
-            "town",
-            "city",
-            "village",
-            "forest",
-            "desert",
-            "mountain",
-            "plains",
-            "coast",
-            "dungeon",
-            "ruins",
-            "cave",
-            "underdark"
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Antitoxin",
-        "description": "As a Bonus Action, you can drink a vial of Antitoxin to gain Advantage on saving throws to avoid or end the Poisoned condition for 1 hour.",
-        "gpCost": 50,
-        "rarity": "Uncommon",
-        "locations": [
-            "all"
-        ]
-    },
-    {
-        "id": 6,
-        "name": "Arrows",
-        "description": "",
-        "gpCost": 1,
-        "rarity": "Common",
-        "locations": [
-            "town",
-            "city",
-            "village",
-            "forest",
-            "desert",
-            "plains",
-            "swamp",
-            "coast",
-            "underwater",
-            "dungeon",
-            "ruins",
-            "cave",
-            "underdark"
-        ]
-    },
-    {
-        "id": 7,
-        "name": "Backpack",
-        "description": "A Backpack holds up to 30 pounds within 1 cubic foot. It can also serve as a saddlebag.",
-        "gpCost": 2,
-        "rarity": "Common",
-        "locations": [
-            "all"
-        ]
-    },
-    {
-        "id": 8,
-        "name": "Bagpipes",
-        "description": "",
-        "gpCost": 30,
-        "rarity": "Uncommon",
-        "locations": [
-            "town",
-            "city",
-            "village",
-            "dungeon"
-        ]
-    },
-    {
-        "id": 9,
-        "name": "Ball bearings",
-        "description": "As a Utilize action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-footsquare area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the Prone condition. It takes 10 minutes to recover the Ball Bearings.",
-        "gpCost": 1,
-        "rarity": "Common",
-        "locations": [
-            "town",
-            "city",
-            "mountain"
-        ]
-    },
-    {
-        "id": 10,
-        "name": "Barrel",
-        "description": "A Barrel holds up to 40 gallons of liquid or up to 4 cubic feet of dry goods.",
-        "gpCost": 2,
-        "rarity": "Common",
-        "locations": [
-            "town",
-            "city",
-            "village",
-            "forest",
-            "desert",
-            "swamp",
-            "coast",
-            "dungeon",
-            "ruins",
-            "cave",
-            "underdark"
-        ]
-    },
-    {
-        "id": 11,
-        "name": "Basket",
-        "description": "A Basket holds up to 40 pounds within 2 cubic feet.",
-        "gpCost": 2,
-        "rarity": "Common",
-        "locations": [
-            "all"
-        ]
-    },
-    {
-        "id": 12,
-        "name": "Battleaxe",
-        "description": "",
-        "gpCost": 10,
-        "rarity": "Common",
-        "locations": [
-            "town",
-            "city",
-            "village",
-            "forest",
-            "mountain",
-            "dungeon",
-            "ruins",
-            "underdark"
-        ]
-    },
-    {
-        "id": 13,
-        "name": "Bedroll",
-        "description": "A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see “Gameplay Toolbox”).",
-        "gpCost": 2,
-        "rarity": "Common",
-        "locations": [
-            "town",
-            "city",
-            "village",
-            "dungeon",
-            "ruins"
-        ]
-    },
-    {
-        "id": 14,
-        "name": "Bell",
-        "description": "When rung as a Utilize action, a Bell produces a sound that can be heard up to 60 feet away.",
-        "gpCost": 1,
-        "rarity": "Common",
-        "locations": [
-            "town",
-            "city",
-            "village",
-            "coast",
-            "underwater",
-            "dungeon",
-            "cave",
-            "underdark"
-        ]
-    },
-    {
-        "id": 15,
-        "name": "Blanket",
-        "description": "While wrapped in a blanket, you have Advantage on saving throws against extreme cold (see “Gameplay Toolbox”).",
-        "gpCost": 5,
-        "rarity": "Common",
-        "locations": [
-            "town",
-            "city",
-            "village",
-            "ruins",
-            "cave"
-        ]
-    },
-    {
-        "id": 16,
-        "name": "Block and tackle",
-        "description": "A Block and Tackle allows you to hoist up to four times the weight you can normally lift.",
-        "gpCost": 1,
-        "rarity": "Common",
-        "locations": [
-            "all"
-        ]
-    },
-    {
-        "id": 17,
-        "name": "Blowgun",
-        "description": "",
-        "gpCost": 10,
-        "rarity": "Common",
-        "locations": [
-            "all"
-        ]
-    },
-    {
-        "id": 18,
-        "name": "Book",
-        "description": "A Book contains fiction or nonfiction. If you consult an accurate nonfiction Book about its topic, you gain a +5 bonus to Intelligence (Arcana, History, Nature, or Religion) checks you make about that topic.",
-        "gpCost": 25,
-        "rarity": "Common",
-        "locations": [
-            "all"
-        ]
-    },
-    {
-        "id": 19,
-        "name": "Bolts",
-        "description": "",
-        "gpCost": 1,
-        "rarity": "Common",
-        "locations": [
-            "all"
-        ]
-    },
-    {
-        "id": 20,
-        "name": "Bottle, Glass",
-        "description": "A Glass Bottle holds up to 11/2 pints.",
-        "gpCost": 2,
-        "rarity": "Common",
-        "locations": [
-            "town",
-            "city",
-            "village",
-            "forest",
-            "desert",
-            "plains",
-            "coast",
-            "ruins"
-        ]
-    }
+  {
+    "id": 1,
+    "name": "Acid",
+    "description": "When you take the Attack action, you can replace one of your attacks with throwing a vial of Acid. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 2d6 Acid damage.",
+    "gpCost": 25,
+    "rarity": "Uncommon",
+    "locations": [
+      "town",
+      "city",
+      "village",
+      "forest",
+      "swamp",
+      "dungeon",
+      "ruins",
+      "underdark"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Alchemist's Fire",
+    "description": "When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see “Rules Glossary”).",
+    "gpCost": 25,
+    "rarity": "Uncommon",
+    "locations": [
+      "town",
+      "city",
+      "forest",
+      "desert",
+      "dungeon",
+      "ruins",
+      "cave"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Alchemist's Supplies",
+    "description": "",
+    "gpCost": 50,
+    "rarity": "Uncommon",
+    "locations": [
+      "all"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Amulet",
+    "description": "A Holy Symbol takes one of the forms in the Holy Symbol table and is bejeweled or painted to channel divine magic. A Cleric or Paladin can use a Holy Symbol as a Spellcasting Focus.\nThe table indicates whether a Holy Symbol needs to be held, worn, or borne on fabric (such as a tabard or banner) or a Shield.",
+    "gpCost": 5,
+    "rarity": "Common",
+    "locations": [
+      "town",
+      "city",
+      "village",
+      "forest",
+      "desert",
+      "mountain",
+      "plains",
+      "coast",
+      "dungeon",
+      "ruins",
+      "cave",
+      "underdark"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Antitoxin",
+    "description": "As a Bonus Action, you can drink a vial of Antitoxin to gain Advantage on saving throws to avoid or end the Poisoned condition for 1 hour.",
+    "gpCost": 50,
+    "rarity": "Uncommon",
+    "locations": [
+      "all"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Arrows",
+    "description": "",
+    "gpCost": 1,
+    "rarity": "Common",
+    "locations": [
+      "town",
+      "city",
+      "village",
+      "forest",
+      "desert",
+      "plains",
+      "swamp",
+      "coast",
+      "underwater",
+      "dungeon",
+      "ruins",
+      "cave",
+      "underdark"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Backpack",
+    "description": "A Backpack holds up to 30 pounds within 1 cubic foot. It can also serve as a saddlebag.",
+    "gpCost": 2,
+    "rarity": "Common",
+    "locations": [
+      "all"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Bagpipes",
+    "description": "",
+    "gpCost": 30,
+    "rarity": "Uncommon",
+    "locations": [
+      "town",
+      "city",
+      "village",
+      "dungeon"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Ball bearings",
+    "description": "As a Utilize action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-footsquare area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the Prone condition. It takes 10 minutes to recover the Ball Bearings.",
+    "gpCost": 1,
+    "rarity": "Common",
+    "locations": [
+      "town",
+      "city",
+      "mountain"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Barrel",
+    "description": "A Barrel holds up to 40 gallons of liquid or up to 4 cubic feet of dry goods.",
+    "gpCost": 2,
+    "rarity": "Common",
+    "locations": [
+      "town",
+      "city",
+      "village",
+      "forest",
+      "desert",
+      "swamp",
+      "coast",
+      "dungeon",
+      "ruins",
+      "cave",
+      "underdark"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Basket",
+    "description": "A Basket holds up to 40 pounds within 2 cubic feet.",
+    "gpCost": 2,
+    "rarity": "Common",
+    "locations": [
+      "all"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Battleaxe",
+    "description": "",
+    "gpCost": 10,
+    "rarity": "Common",
+    "locations": [
+      "town",
+      "city",
+      "village",
+      "forest",
+      "mountain",
+      "dungeon",
+      "ruins",
+      "underdark"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Bedroll",
+    "description": "A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see “Gameplay Toolbox”).",
+    "gpCost": 2,
+    "rarity": "Common",
+    "locations": [
+      "town",
+      "city",
+      "village",
+      "dungeon",
+      "ruins"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Bell",
+    "description": "When rung as a Utilize action, a Bell produces a sound that can be heard up to 60 feet away.",
+    "gpCost": 1,
+    "rarity": "Common",
+    "locations": [
+      "town",
+      "city",
+      "village",
+      "coast",
+      "underwater",
+      "dungeon",
+      "cave",
+      "underdark"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Blanket",
+    "description": "While wrapped in a blanket, you have Advantage on saving throws against extreme cold (see “Gameplay Toolbox”).",
+    "gpCost": 5,
+    "rarity": "Common",
+    "locations": [
+      "town",
+      "city",
+      "village",
+      "ruins",
+      "cave"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Block and tackle",
+    "description": "A Block and Tackle allows you to hoist up to four times the weight you can normally lift.",
+    "gpCost": 1,
+    "rarity": "Common",
+    "locations": [
+      "all"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Blowgun",
+    "description": "",
+    "gpCost": 10,
+    "rarity": "Common",
+    "locations": [
+      "all"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Book",
+    "description": "A Book contains fiction or nonfiction. If you consult an accurate nonfiction Book about its topic, you gain a +5 bonus to Intelligence (Arcana, History, Nature, or Religion) checks you make about that topic.",
+    "gpCost": 25,
+    "rarity": "Common",
+    "locations": [
+      "all"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Bolts",
+    "description": "",
+    "gpCost": 1,
+    "rarity": "Common",
+    "locations": [
+      "all"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Bottle, Glass",
+    "description": "A Glass Bottle holds up to 11/2 pints.",
+    "gpCost": 2,
+    "rarity": "Common",
+    "locations": [
+      "town",
+      "city",
+      "village",
+      "forest",
+      "desert",
+      "plains",
+      "coast",
+      "ruins"
+    ]
+  }
 ]

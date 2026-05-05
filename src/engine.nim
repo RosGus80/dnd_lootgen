@@ -27,7 +27,7 @@ proc `$`*(i: Item): string =
 
 
 #[ Known locations - will only be used for the manual location input. 
-    Planning to derive all available locations in frontend via the all relevant json's search and 
+    Planning to derive all available locations in frontend via the all relevant jsons search and 
     getting all unique "location" fields ]#
 const allLocationsSeq*: seq[Location] = @[
     "all",
@@ -95,7 +95,7 @@ proc getAllItems*(additionalFolders: seq[string]): seq[Item] =
     var allFiles: seq[string] = getJsonFiles("db/core")
     
     for folder in additionalFolders:
-        allFiles = allFiles & getJsonFiles("db/" & folder)
+        allFiles = allFiles & getJsonFiles("db/" & folder) # ! May be risky having it relative here
 
     var allItems: seq[Item] = @[]
 
