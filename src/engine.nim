@@ -8,11 +8,11 @@ type
 
     Item* = object
         id: Option[uint]
-        name: string
-        description: string
-        gpCost: float
-        rarity: Rarity
-        locations: seq[Location]
+        name*: string
+        description*: string
+        gpCost*: float
+        rarity*: Rarity
+        locations*: seq[Location]
 
 proc `$`*(i: Item): string =
   result =
@@ -224,8 +224,5 @@ proc genTrader*(
         itemsAmount: uint = 0
     ): seq[Item] =
     # TODO
+    echo "Not done"
 
-    
-
-
-    
